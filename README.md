@@ -13,7 +13,7 @@ I build production backend systems and AI-powered applications, with a focus on 
 - Built a Python-based speech-to-text assignment exploring transcription, denoising, autocomplete, and streaming API patterns.
 
 ### Featured Projects
-- [Briskk Speech Assignment](https://github.com/sakshammaurya/briskk-speech-assignment) — speech-to-text and voice-search engineering assignment.
+- [Briskk Speech Assignment](https://github.com/sakshammaurya/briskk-speech-assignment) — FastAPI + Whisper transcription prototype with template-based suggestions.
 - [E-commerce Website](https://github.com/sakshammaurya/ecommerce-website) — Django-based product browsing, filtering, sorting, and search.
 
 ### Open to
